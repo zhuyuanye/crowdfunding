@@ -16,7 +16,7 @@
     </modules>
 
     <properties>
-        <zyy.spring.version>4.3.2.RELEASE</zyy.spring.version>
+        <zyy.spring.version>5.3.18</zyy.spring.version>
     </properties>
 
     <dependencyManagement>
